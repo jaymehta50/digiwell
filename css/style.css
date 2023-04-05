@@ -1,0 +1,17 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;500;700&display=swap');
+
+div.jumbotron {
+	 background: rgb(3,42,43);
+	background: -webkit-linear-gradient(rgba(3,42,43,1) 0%, rgba(12,136,140,1) 35%, rgba(14,184,190,1) 100%);
+	background: -o-linear-gradient(rgba(3,42,43,1) 0%, rgba(12,136,140,1) 35%, rgba(14,184,190,1) 100%);
+	background: linear-gradient(rgba(3,42,43,1) 0%, rgba(12,136,140,1) 35%, rgba(14,184,190,1) 100%);
+	color: #ffffff;
+	font-family: 'Quicksand', sans-serif;
+}
+
+nav.navbar {
+	background-color: #000;
+}
